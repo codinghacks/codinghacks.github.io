@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Coding Hacks</title>
+  <subtitle>A fresh coding learner</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2016-04-20T07:33:19.674Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Jian</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello Coding Hacks</title>
+    <link href="http://yoursite.com/2016/hello-world/"/>
+    <id>http://yoursite.com/2016/hello-world/</id>
+    <published>2016-04-20T04:45:50.688Z</published>
+    <updated>2016-04-20T07:33:19.674Z</updated>
+    
+    <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://coding.hudabai.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Coding Hacks&lt;/a&gt;! &lt;/p&gt;
+&lt;h3 id=&quot;English-Vision&quot;&gt;&lt;a href=&quot;#English-Vision&quot; class=&quot;headerlink&quot; title=&quot;English Vision&quot;&gt;&lt;/a&gt;English Vision&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ Hello Coding Hacks&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&quot;Chinese-Vision&quot;&gt;&lt;a href=&quot;#Chinese-Vision&quot; class=&quot;headerlink&quot; title=&quot;Chinese Vision&quot;&gt;&lt;/a&gt;Chinese Vision&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ 你好，敲代码的孩纸：）&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://i.hudabai.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Home-Page&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://coding.hudabai.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Coding Hacks&lt;/a&gt;! &lt;/p&gt;
+&lt;h3 id=&quot;English-Vision&quot;&gt;&lt;a href=&quot;#
+    
+    </summary>
+    
+      <category term="随记" scheme="http://yoursite.com/categories/%E9%9A%8F%E8%AE%B0/"/>
+    
+    
+      <category term="hello" scheme="http://yoursite.com/tags/hello/"/>
+    
+  </entry>
+  
+</feed>
